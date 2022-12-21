@@ -1,4 +1,0 @@
-C:\Dev\App\Mobile 2021\Par e Impar\PareImpar\PareImpar\obj\Debug\netcoreapp3.1\PareImpar.csprojAssemblyReference.cache
-C:\Dev\App\Mobile 2021\Par e Impar\PareImpar\PareImpar\obj\Debug\netcoreapp3.1\PareImpar.AssemblyInfoInputs.cache
-C:\Dev\App\Mobile 2021\Par e Impar\PareImpar\PareImpar\obj\Debug\netcoreapp3.1\PareImpar.AssemblyInfo.cs
-C:\Dev\App\Mobile 2021\Par e Impar\PareImpar\PareImpar\obj\Debug\netcoreapp3.1\PareImpar.csproj.CoreCompileInputs.cache
